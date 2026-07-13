@@ -31,7 +31,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============== TELEGRAM BOT TOKEN (HARDCODED) ==============
-TELEGRAM_BOT_TOKEN = "8419503474:AAEQxFt78ot89_c8i3lhqYNjL4Dk8sV3s4s"   # <--- fixed
+TELEGRAM_BOT_TOKEN = "8852460837:AAHGHcws4yolGJOVvB8pOPc2TrhuFkYSn1g"   # <--- fixed
 
 # ============== SESSION FACTORY ==============
 def create_session(use_proxy=False, proxy_string=None):
